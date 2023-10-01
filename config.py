@@ -11,7 +11,7 @@ MODERATOR_USER_NAMES = ['solopool.pro']
 # The map between the coin and the API url
 COIN2URL_MAP = {
     "ETC-SOLO": "https://solopool.pro/api/pools/etcsolo",
-    "RAVEN-SOLO": "https://solopool.pro/api/pools/ravensolo";
+    "RAVEN-SOLO": "https://solopool.pro/api/pools/ravensolo",
     "ERGO-SOLO": "https://solopool.pro/api/pools/ergosolo"
 }
 
