@@ -5,14 +5,13 @@ API_TOKEN = '6478261573:AAGXV_nSxSdBU1rCon46R5EIryqwj7ai39s'
 CHANNEL_USERNAME = '@solopoolpro_bot'
 
 # The list of the ID of the people that are going to create or delete sellers.
-ACTIVATE_MODERATOR_FILTERING = True
+ACTIVATE_MODERATOR_FILTERING = False
 MODERATOR_USER_NAMES = ['solopool.pro']
 
 # The map between the coin and the API url
 COIN2URL_MAP = {
-    "ETC-SOLO": "https://solopool.pro/api/pools/etcsolo",
-    "RAVEN-SOLO": "https://solopool.pro/api/pools/ravensolo",
-    "ERGO-SOLO": "https://solopool.pro/api/pools/ergosolo"
+    "ETC-SOLO": "https://solopool.us/api/pools/etcsolo",
+    "RAVEN-SOLO": "https://raven.solopool.us/api/pools/rvn1"
 }
 
 # The secret is a token (not the bot token though) for secure webhook connection
