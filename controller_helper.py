@@ -125,10 +125,10 @@ def get_wallet_from_command(text):
 
 def get_help_text():
     return """
-Hi there, open-etc-pool-friends bot.
+Hi there, solopool.us bot.
 I am here to display pool stats.
 Commands are :
-/stats [coin] - displays statistics on a coin. Possible values are : etc
+/stats [coin] - displays statistics on a coin. Possible values are : etc, rvn
 /stats [coin] [walletaddress] - Display stats on a wallet address for a coin
 /miners [coin]
 /help - displays this help text.
